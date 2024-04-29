@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github💥
--⚡I'm learnning python in Digital Literacy Class.
++⚡I'm learnning python in Digital Literacy Class.
 
--⚡I'm majoring in English Education.
++⚡I'm majoring in English Education.
 <!--
 **skdud7669/skdud7669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
