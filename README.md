@@ -1,5 +1,5 @@
 ### Hi! Welcome to my github💥
-- ⚡I'm learnning python in Digital Literacy Class.
+- ⚡I'm learning python in Digital Literacy Class.
 
 - ⚡I'm majoring in English Education.
 <!--
